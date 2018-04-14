@@ -3,7 +3,7 @@ Deep deniose autoencoder
 
 VAE.ipynb is a pure autoencoder model used keras with tensorflow backend, it is a test.
 
-Denoise-VAE.ipynb use keras with tensorflow backend, it is a variational autoencoder model based on the VAE.ipynb.
+Denoise-VAE-keras.ipynb use keras with tensorflow backend, it is a variational autoencoder model based on the VAE.ipynb.
 
 Denoise-AE-tf.ipynb use tensorflow, it is a autoencoder model.
 
@@ -20,7 +20,7 @@ The forth are the results of median filtering, which is relized by the scipy.sig
 # Usage
 ```
 git clone https://github.com/block98k/Denoise-VAE.git
-cd ./Denoise-VAE
+cd ./Denoise-AE-tf
 jupyter notebook Denoise-AE-tf.ipynb
 ```
 
