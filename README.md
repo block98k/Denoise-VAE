@@ -8,7 +8,7 @@ Denoise-VAE-keras.ipynb use keras with tensorflow backend, it is a variational a
 Denoise-AE-tf.ipynb use tensorflow, it is an autoencoder model.
 
 # Results
-<img src="result.png">
+<img src="results.png">
 
 The six pictures in first row are the original pictures.
 
