@@ -10,6 +10,7 @@ Denoise-AE-tf.ipynb use tensorflow, it is an autoencoder model.
 
 The six pictures in first row are the original pictures.
 
+
 The second are the noised pictures with random noises.
 
 The third are the results of the Denoise-AE-tf.ipynb
