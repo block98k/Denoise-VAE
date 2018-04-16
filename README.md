@@ -1,11 +1,11 @@
 # Denoise-VAE
-Deep deniose autoencoder
+Deep denoise autoencoder
 
 VAE.ipynb is a pure autoencoder model used keras with tensorflow backend, it is a test.
 
 Denoise-VAE-keras.ipynb use keras with tensorflow backend, it is a variational autoencoder model based on the VAE.ipynb.
 
-Denoise-AE-tf.ipynb use tensorflow, it is a autoencoder model.
+Denoise-AE-tf.ipynb use tensorflow, it is an autoencoder model.
 
 # Results
 <img src="result.png">
