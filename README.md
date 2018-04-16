@@ -1,5 +1,5 @@
 # Denoise-VAE
-Deep denoise autoencoder
+Deep denoised autoencoder
 
 VAE.ipynb is a pure autoencoder model used keras with tensorflow backend, it is a test.
 
@@ -12,7 +12,7 @@ Denoise-AE-tf.ipynb use tensorflow, it is an autoencoder model.
 
 The six pictures in first row are the original pictures.
 
-The second are the noised pictures with normal noises, each picture has 300 pixels noises.
+The second are the noised pictures with normal noises, each picture has 600 pixels noises.
 
 The third are the results of the Denoise-AE-tf.
 
