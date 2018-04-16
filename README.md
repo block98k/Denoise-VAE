@@ -20,7 +20,7 @@ The forth are the results of median filtering, which is relized by the scipy.sig
 # Usage
 ```
 git clone https://github.com/block98k/Denoise-VAE.git
-cd ./Denoise-AE-tf
+cd ./Denoise-VAE
 jupyter notebook Denoise-AE-tf.ipynb
 ```
 
